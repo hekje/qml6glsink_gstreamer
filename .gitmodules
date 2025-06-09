@@ -1,0 +1,3 @@
+[submodule "third-party/gstreamer"]
+	path = third-party/gstreamer
+	url = https://gitlab.freedesktop.org/gstreamer/gstreamer.git
