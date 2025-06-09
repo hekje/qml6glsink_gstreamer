@@ -74,7 +74,7 @@ Add the following lines to your terminal session
 ```bash
 export QT_QPA_PLATFORM=xcb
 export LD_LIBRARY_PATH=/home/$USER/Qt/6.6.3/gcc_64/lib:qml6glsink_gstreamer/gstreamer-custom/lib/x86_64-linux-gnu:$LD_LIBRARY_PATH
-export GST_PLUGIN_PATH=qml6glsink_gstreamer/gstreamer-custom/lib/x86_64-linux-gnu/gstreamer-1.0
+export GST_PLUGIN_PATH=/<your path>/qml6glsink_gstreamer/gstreamer-custom/lib/x86_64-linux-gnu/gstreamer-1.0
 export QML_IMPORT_PATH=/home/$USER/Qt/6.6.3/gcc_64/qml:$QML_IMPORT_PATH
 
 ```
