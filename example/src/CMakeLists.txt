@@ -71,7 +71,6 @@ message(STATUS "gst-qmlsink-example - PROJECT_SOURCE_DIR = ${PROJECT_SOURCE_DIR}
 message(STATUS "gst-qmlsink-example - CMAKE_CURRENT_SOURCE_DIR = ${CMAKE_CURRENT_SOURCE_DIR}")
 get_filename_component(CAMERA_PARENT_DIR "${CMAKE_CURRENT_SOURCE_DIR}" DIRECTORY)
 message(STATUS "gst-qmlsink-example - CAMERA_PARENT_DIR = ${CAMERA_PARENT_DIR}")
-message(STATUS "gst-qmlsink-example - ${CMAKE_SOURCE_DIR}/syos = ${CMAKE_SOURCE_DIR}/syos")
 
 message(STATUS "gst-qmlsink-example - ==================================================")
 message(STATUS "gst-qmlsink-example - ")
